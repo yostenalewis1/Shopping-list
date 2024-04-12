@@ -6,3 +6,4 @@ Shopping App is a simple and efficient way to manage your shopping list. It allo
 - Delete items from your shopping list
 - Persistent data storage
 - Responsive design for mobile devices
+- [here](https://yostenalewis1.github.io/Shopping-list/)
